@@ -8,7 +8,7 @@
 </div>
 <br>
 
-## Estatísticas📈
+## 📈Estatísticas
 <div>
   <a href="https://github.com/joaomnz13">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=joaomnz13&show_icons=true&theme=jolly&include_all_comits=true&count_private=true"/>
@@ -16,18 +16,18 @@
   </a>
 </div>
 
-## Experiências🏆
+## 🏆Experiências
 <div style="display: inline_block"><br>
   <img align="center" alt="João-Python" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
-## Entre em contato comigo!📨
+## 📨Entre em contato comigo!
 <div>
   <a href="https://instagram.com/joao.mnz_" target="=_blank"><img height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:joao.munizsenai25@gmail.com" target="=_blank"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-## Funny Commits 🐍
+## 🐍Funny Commits
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaomnz13/joaomnz13/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaomnz13/joaomnz13/output/github-contribution-grid-snake-dark.svg">
