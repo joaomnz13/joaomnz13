@@ -1,5 +1,5 @@
-## Olá! Eu sou o João Muniz 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+Vindo+ao+meu+perfil!&color=e54bc1&size=38&pause=1000&center=false&vCenter=false&ramdom=false)](https://git.io/typing-svg)
+##
 
 <div>
   <a href="https://github.com/joaomnz13">
