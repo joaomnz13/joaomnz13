@@ -1,4 +1,6 @@
 ## Olá! Eu sou o João Muniz 
+
+
 <div>
   <a href="https://github.com/joaomnz13">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=joaomnz13&show_icons=true&theme=jolly&include_all_comits=true&count_private=true"/>
@@ -16,10 +18,4 @@
   <a href="mailto:joao.munizsenai25@gmail.com" target="=_blank"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake animation](https://github.com/joaomnz13/joaomnz13/blob/output/github-contribution-grid-snake.svg)
