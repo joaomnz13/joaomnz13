@@ -17,8 +17,8 @@
 </div>
 
 ## 🏆Experiências
-<div style="display: inline_block"><br>
-  <img align="center" alt="João-Python" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<div>
+  <img align="center" alt="João-Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
 ## 📨Entre em contato comigo!
